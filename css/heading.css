@@ -48,4 +48,11 @@
 
 #hamburger {
     width: 50px !important;
+    height: 50px;
+    background-color: black;
+
+}
+
+#hamburger-bars {
+    font-size: 20px;
 }
