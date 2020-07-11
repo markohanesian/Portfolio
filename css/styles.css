@@ -68,7 +68,7 @@ hr {
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
-  margin-bottom: 0.5rem; }
+  margin-bottom: 0.0; }
 
 p {
   margin-top: 0;
@@ -7273,10 +7273,10 @@ h3 {
       font-size: 1.5em; } }
 
 .masthead {
-  padding-top: calc(6rem + 74px);
-  padding-bottom: 6rem; }
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
   .masthead .masthead-heading {
-    font-size: 2.75rem;
+    font-size: 2rem;
     line-height: 2.75rem; }
   .masthead .masthead-subheading {
     font-size: 1.25rem; }
