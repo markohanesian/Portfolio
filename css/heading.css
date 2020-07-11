@@ -49,8 +49,8 @@
 #hamburger {
     width: 50px !important;
     height: 50px;
-    background-color: black;
-
+    background-color: black !important;
+    border-radius: 150px !important;
 }
 
 #hamburger-bars {
