@@ -53,3 +53,10 @@
 #development {
     background-color: #0BD498;
 }
+
+#credential {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
