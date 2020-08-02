@@ -59,6 +59,16 @@
 
 #development {
     background-color: #0BD498;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.dev-project {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    background-color: white;
+    padding: 1.5rem;
 }
 
 #credential {
