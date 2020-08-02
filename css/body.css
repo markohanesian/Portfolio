@@ -69,6 +69,11 @@
     align-items: left;
     background-color: white;
     padding: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.dev-project-languages {
+    padding-top: 1rem;
 }
 
 #credential {
