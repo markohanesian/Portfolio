@@ -46,6 +46,37 @@
         U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
+/* modal buttons */
+.btn-dribble {
+    display: grid;
+    flex: 1;
+    width: auto;
+    border: hidden;
+    background-color: #ea4c89;
+    color: white;
+    padding: 10px;
+}
+
+.btn-close {
+    float: inline-start;
+    width: 100%;
+    border: hidden;
+    background-color: darkgrey;
+    color: white;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
 #avatar-container {
     display: flex;
     flex-direction: column;
