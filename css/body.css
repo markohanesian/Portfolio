@@ -137,3 +137,8 @@ a:hover {
 .page-section {
     padding: 2rem;
 }
+
+a.card-link {
+    color: magenta;
+    font-weight: 400;
+}
