@@ -88,8 +88,8 @@ a:hover {
     font-size: large;
     display: flex;
     flex: 1;
-    flex-direction: row;
-    align-content: row;
+    flex-direction: column;
+    justify-content: center;
 }
 
 #development {
